@@ -1,6 +1,6 @@
 # ABM_ENDO
 
-**Evolutionary Intertemporal Decision Rules in Agenet Based Macro Model**
+**Evolutionary Intertemporal Decision Rules in an Agent Based Macro Model**
 
 Implemented in Julia 1.3.1 https://julialang.org/
 
@@ -30,6 +30,6 @@ Contains functions called while running the simulation
 
 
 **show_functions.jl**
-Containes the functions used to create the plots.
+Contains the functions used to create the plots.
 
 
