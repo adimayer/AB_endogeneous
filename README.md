@@ -7,9 +7,9 @@ Implemented in Julia 1.3.1 https://julialang.org/
 
 To run the simulation / replicate the results.
 1.  Load all files into the project directory.
-2.	Set parameters in q_set_para_initial() in the file Leng_run.jl.
-    Set model specification and display option in Leng_run.jl
-3.	Run the program  Leng_run.jl 
+2.	Set parameters in q_set_para_initial() in the file ABM_run.jl.
+    Set model specification and display option in ABM_run.jl
+3.	Run the program  ABM_run.jl 
 
 
 
