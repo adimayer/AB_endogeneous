@@ -15,12 +15,12 @@ To run the simulation / replicate the results.
 
 Files:
 
-**Leng_run.jl**
+**ABM_run.jl**
 Runs the simulation.
 Before running this program set the simulation parameters in the function q_set_para_initial().
 And set specification and display options
 
-**leng_func.jl**
+**ABM_func.jl**
 Contains functions used for the simulation.
 Called while running the simulation.
 
